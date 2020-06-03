@@ -1,7 +1,6 @@
 first file
 seconf checkin
 3rd checkin
-<<<<<<< HEAD
 
 1st
 2nd
