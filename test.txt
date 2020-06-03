@@ -1,6 +1,7 @@
 first file
 seconf checkin
 3rd checkin
+<<<<<<< HEAD
 
 1st
 2nd
@@ -11,3 +12,6 @@ seconf checkin
 7th
 8th
 9th
+10th
+
+MERGED
